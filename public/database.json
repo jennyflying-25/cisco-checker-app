@@ -1,1 +1,4805 @@
-
+{
+  "products": [
+    {
+      "Your_SKU": "A-SFP-1G-DW-xxxx-80-C",
+      "OEM_Part_Number": "DWDM-SFP-XXXX",
+      "Data_Rate": "1 Gbps",
+      "Form_Factor": "SFP",
+      "Reach": "80km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-10G-DW-xxxx-80-C",
+      "OEM_Part_Number": "DWDM-SFP10G-XX.XX",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "80km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-10G-DW-xxxx-70-C",
+      "OEM_Part_Number": "DWDM-SFP10G-C-S",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "70km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-1G-CW-xxxx-100-C",
+      "OEM_Part_Number": "CWDM-SFP-XXXX",
+      "Data_Rate": "1 Gbps",
+      "Form_Factor": "SFP",
+      "Reach": "100km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-10G-CW-xxxx-40-C",
+      "OEM_Part_Number": "CWDM-SFP10G-XXXX",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "40km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-GE2-TIA",
+      "OEM_Part_Number": "SFP-GE-T",
+      "Data_Rate": "10/100/1000 Mbps",
+      "Form_Factor": "SFP",
+      "Reach": "100m",
+      "Cable_Type": "Cat5e/6A",
+      "Media": "Copper",
+      "Connector_Type": "RJ-45",
+      "Transceiver_Type": "Copper",
+      "Case_Temp": "-5 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/Industrial_10G_1_25G_SFP-15/19.html"
+    },
+    {
+      "Your_SKU": "A-SFP-1G-ZX-I",
+      "OEM_Part_Number": "GLC-ZX-SM-RGD",
+      "Data_Rate": "1 Gbps",
+      "Form_Factor": "SFP",
+      "Reach": "70km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "-40 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-1G-ZX",
+      "OEM_Part_Number": "GLC-ZX-SMD",
+      "Data_Rate": "1 Gbps",
+      "Form_Factor": "SFP",
+      "Reach": "70km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "-5 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-1G-ZX-C",
+      "OEM_Part_Number": "GLC-ZX-SM",
+      "Data_Rate": "1 Gbps",
+      "Form_Factor": "SFP",
+      "Reach": "70km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-GE2-TIA",
+      "OEM_Part_Number": "GLC-TE",
+      "Data_Rate": "10/100/1000 Mbps",
+      "Form_Factor": "SFP",
+      "Reach": "100m",
+      "Cable_Type": "Cat5e/6A",
+      "Media": "Copper",
+      "Connector_Type": "RJ-45",
+      "Transceiver_Type": "Copper",
+      "Case_Temp": "-5 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/Industrial_10G_1_25G_SFP-15/19.html"
+    },
+    {
+      "Your_SKU": "A-SFP-GE2-TCA",
+      "OEM_Part_Number": "GLC-T",
+      "Data_Rate": "10/100/1000 Mbps",
+      "Form_Factor": "SFP",
+      "Reach": "100m",
+      "Cable_Type": "Cat5e/6A",
+      "Media": "Copper",
+      "Connector_Type": "RJ-45",
+      "Transceiver_Type": "Copper",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/Industrial_10G_1_25G_SFP-15/19.html"
+    },
+    {
+      "Your_SKU": "A-SFP-1G-SX-I",
+      "OEM_Part_Number": "GLC-SX-MM-RGD",
+      "Data_Rate": "1 Gbps",
+      "Form_Factor": "SFP",
+      "Reach": "1000m",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "MMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "-40 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-1G-SX",
+      "OEM_Part_Number": "GLC-SX-MMD",
+      "Data_Rate": "1 Gbps",
+      "Form_Factor": "SFP",
+      "Reach": "1000m",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "MMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "-5 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-1G-SX-C",
+      "OEM_Part_Number": "GLC-SX-MM",
+      "Data_Rate": "1 Gbps",
+      "Form_Factor": "SFP",
+      "Reach": "1000m",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "MMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-1G-LX-I",
+      "OEM_Part_Number": "GLC-LX-SM-RGD",
+      "Data_Rate": "1 Gbps",
+      "Form_Factor": "SFP",
+      "Reach": "10km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "-40 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-1G-LX",
+      "OEM_Part_Number": "GLC-LH-SMD",
+      "Data_Rate": "1 Gbps",
+      "Form_Factor": "SFP",
+      "Reach": "10km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "-5 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/Industrial_10G_1_25G_SFP-15/18.html"
+    },
+    {
+      "Your_SKU": "A-SFP-1G-EX",
+      "OEM_Part_Number": "GLC-EX-SMD",
+      "Data_Rate": "1 Gbps",
+      "Form_Factor": "SFP",
+      "Reach": "40km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "-5 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-1G-BXU10-C",
+      "OEM_Part_Number": "GLC-BX-U",
+      "Data_Rate": "1 Gbps",
+      "Form_Factor": "SFP",
+      "Reach": "10km",
+      "Cable_Type": "Single-strand Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-1G-BXD10-C",
+      "OEM_Part_Number": "GLC-BX-D",
+      "Data_Rate": "1 Gbps",
+      "Form_Factor": "SFP",
+      "Reach": "10km",
+      "Cable_Type": "Single-strand Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-1G-BXU80-I",
+      "OEM_Part_Number": "GLC-BX80-U-I",
+      "Data_Rate": "1 Gbps",
+      "Form_Factor": "SFP",
+      "Reach": "80km",
+      "Cable_Type": "Single-strand Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "-40 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-1G-BXD80-I",
+      "OEM_Part_Number": "GLC-BX80-D-I",
+      "Data_Rate": "1 Gbps",
+      "Form_Factor": "SFP",
+      "Reach": "80km",
+      "Cable_Type": "Single-strand Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "-40 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-1G-BXU40-I",
+      "OEM_Part_Number": "GLC-BX40-U-I",
+      "Data_Rate": "1 Gbps",
+      "Form_Factor": "SFP",
+      "Reach": "40km",
+      "Cable_Type": "Single-strand Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "-40 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-1G-BXD40-I",
+      "OEM_Part_Number": "GLC-BX40-D-I",
+      "Data_Rate": "1 Gbps",
+      "Form_Factor": "SFP",
+      "Reach": "40km",
+      "Cable_Type": "Single-strand Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "-40 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-eSFP-2KM",
+      "OEM_Part_Number": "GLC-GE-100FX",
+      "Data_Rate": "100 Mbps",
+      "Form_Factor": "SFP",
+      "Reach": "2km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "MMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-SFP25G-5M",
+      "OEM_Part_Number": "SFP-H25G-CU5M",
+      "Data_Rate": "25 Gbps",
+      "Form_Factor": "SFP28",
+      "Reach": "5m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-SFP25G-4M",
+      "OEM_Part_Number": "SFP-H25G-CU4M",
+      "Data_Rate": "25 Gbps",
+      "Form_Factor": "SFP28",
+      "Reach": "4m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-SFP25G-3M",
+      "OEM_Part_Number": "SFP-H25G-CU3M",
+      "Data_Rate": "25 Gbps",
+      "Form_Factor": "SFP28",
+      "Reach": "3m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-SFP25G-2M",
+      "OEM_Part_Number": "SFP-H25G-CU2M",
+      "Data_Rate": "25 Gbps",
+      "Form_Factor": "SFP28",
+      "Reach": "2m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-SFP25G-2.5M",
+      "OEM_Part_Number": "SFP-H25G-CU2.5M",
+      "Data_Rate": "25 Gbps",
+      "Form_Factor": "SFP28",
+      "Reach": "2.5m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-SFP25G-1M",
+      "OEM_Part_Number": "SFP-H25G-CU1M",
+      "Data_Rate": "25 Gbps",
+      "Form_Factor": "SFP28",
+      "Reach": "1m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-SFP25G-1.5M",
+      "OEM_Part_Number": "SFP-H25G-CU1.5M",
+      "Data_Rate": "25 Gbps",
+      "Form_Factor": "SFP28",
+      "Reach": "1.5m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-25G-SR-C",
+      "OEM_Part_Number": "SFP-25G-SR-S",
+      "Data_Rate": "25 Gbps",
+      "Form_Factor": "SFP28",
+      "Reach": "100m",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "MMF",
+      "Connector_Type": "LC (UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-SFP25G-7M",
+      "OEM_Part_Number": "SFP-25G-AOC7M",
+      "Data_Rate": "25 Gbps",
+      "Form_Factor": "SFP28",
+      "Reach": "7m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-SFP25G-5M",
+      "OEM_Part_Number": "SFP-25G-AOC5M",
+      "Data_Rate": "25 Gbps",
+      "Form_Factor": "SFP28",
+      "Reach": "5m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-SFP25G-4M",
+      "OEM_Part_Number": "SFP-25G-AOC4M",
+      "Data_Rate": "25 Gbps",
+      "Form_Factor": "SFP28",
+      "Reach": "4m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-SFP25G-3M",
+      "OEM_Part_Number": "SFP-25G-AOC3M",
+      "Data_Rate": "25 Gbps",
+      "Form_Factor": "SFP28",
+      "Reach": "3m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-SFP25G-2M",
+      "OEM_Part_Number": "SFP-25G-AOC2M",
+      "Data_Rate": "25 Gbps",
+      "Form_Factor": "SFP28",
+      "Reach": "2m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-SFP25G-1M",
+      "OEM_Part_Number": "SFP-25G-AOC1M",
+      "Data_Rate": "25 Gbps",
+      "Form_Factor": "SFP28",
+      "Reach": "1m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-SFP25G-10M",
+      "OEM_Part_Number": "SFP-25G-AOC10M",
+      "Data_Rate": "25 Gbps",
+      "Form_Factor": "SFP28",
+      "Reach": "10m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-SFP10G-5M",
+      "OEM_Part_Number": "SFP-H10GB-CU5M",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "5m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/AOC_DAC_cable-16/23.html"
+    },
+    {
+      "Your_SKU": "A-DAC-SFP10G-4M",
+      "OEM_Part_Number": "SFP-H10GB-CU4M",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "4m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/AOC_DAC_cable-16/23.html"
+    },
+    {
+      "Your_SKU": "A-DAC-SFP10G-3M",
+      "OEM_Part_Number": "SFP-H10GB-CU3M",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "3m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/AOC_DAC_cable-16/23.html"
+    },
+    {
+      "Your_SKU": "A-DAC-SFP10G-2M",
+      "OEM_Part_Number": "SFP-H10GB-CU2M",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "2m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/AOC_DAC_cable-16/23.html"
+    },
+    {
+      "Your_SKU": "A-DAC-SFP10G-2.5M",
+      "OEM_Part_Number": "SFP-H10GB-CU2-5M",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "2.5m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/AOC_DAC_cable-16/23.html"
+    },
+    {
+      "Your_SKU": "A-DAC-SFP10G-1M",
+      "OEM_Part_Number": "SFP-H10GB-CU1M",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "1m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/AOC_DAC_cable-16/23.html"
+    },
+    {
+      "Your_SKU": "A-DAC-SFP10G-1.5M",
+      "OEM_Part_Number": "SFP-H10GB-CU1-5M",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "1.5m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/AOC_DAC_cable-16/23.html"
+    },
+    {
+      "Your_SKU": "A-DAC-SFP10G-7M",
+      "OEM_Part_Number": "SFP-H10GB-ACU7M",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "7m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/AOC_DAC_cable-16/23.html"
+    },
+    {
+      "Your_SKU": "A-DAC-SFP10G-10M",
+      "OEM_Part_Number": "SFP-H10GB-ACU10M",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "10m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/AOC_DAC_cable-16/23.html"
+    },
+    {
+      "Your_SKU": "A-SFP-10G-ZR-S",
+      "OEM_Part_Number": "SFP-10G-ZR-S",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "80km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-10G-ZR-C",
+      "OEM_Part_Number": "SFP-10G-ZR",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "80km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-TG-TIA",
+      "OEM_Part_Number": "SFP-10G-T-X",
+      "Data_Rate": "100M/1000M/10G bps",
+      "Form_Factor": "SFP+",
+      "Reach": "30m",
+      "Cable_Type": "Cat6A/7",
+      "Media": "Copper",
+      "Connector_Type": "RJ-45",
+      "Transceiver_Type": "Copper",
+      "Case_Temp": "-5 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/Industrial_10G_1_25G_SFP-15/17.html"
+    },
+    {
+      "Your_SKU": "A-SFP-10G-SR",
+      "OEM_Part_Number": "SFP-10G-SR-X",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "400m",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "MMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "-5 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-10G-SR",
+      "OEM_Part_Number": "SFP-10G-SR-S",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "400m",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "MMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-10G-SR-C",
+      "OEM_Part_Number": "SFP-10G-SR",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "400m",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "MMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-10G-LR",
+      "OEM_Part_Number": "SFP-10G-LR-X",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "10km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "-5 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/Industrial_10G_1_25G_SFP-15/20.html"
+    },
+    {
+      "Your_SKU": "A-SFP-10G-LR-C",
+      "OEM_Part_Number": "SFP-10G-LR-S",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "10km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-10G-LRM-C",
+      "OEM_Part_Number": "SFP-10G-LRM",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "220m",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "MMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-10G-LR-C",
+      "OEM_Part_Number": "SFP-10G-LR",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "10km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-10G-ER",
+      "OEM_Part_Number": "SFP-10G-ER-S",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "40km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-10G-ER-C",
+      "OEM_Part_Number": "SFP-10G-ER",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "40km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-SFP-10G-BXU10-I",
+      "OEM_Part_Number": "SFP-10G-BXU-I",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "10km",
+      "Cable_Type": "Single-strand Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "-40 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/Industrial_10G_1_25G_SFP-15.html"
+    },
+    {
+      "Your_SKU": "A-SFP-10G-BXU40-I",
+      "OEM_Part_Number": "SFP-10G-BX40U-I",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "40km",
+      "Cable_Type": "Single-strand Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "-40 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/Industrial_10G_1_25G_SFP-15/24.html"
+    },
+    {
+      "Your_SKU": "A-SFP-10G-BXD40-I",
+      "OEM_Part_Number": "SFP-10G-BX40D-I",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "40km",
+      "Cable_Type": "Single-strand Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (PC or UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "-40 to 85C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-SFP10G-7M",
+      "OEM_Part_Number": "SFP-10G-AOC7M",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "7m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-SFP10G-5M",
+      "OEM_Part_Number": "SFP-10G-AOC5M",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "5m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-SFP10G-3M",
+      "OEM_Part_Number": "SFP-10G-AOC3M",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "3m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-SFP10G-2M",
+      "OEM_Part_Number": "SFP-10G-AOC2M",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "2m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-SFP10G-1M",
+      "OEM_Part_Number": "SFP-10G-AOC1M",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "1m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-SFP10G-10M",
+      "OEM_Part_Number": "SFP-10G-AOC10M",
+      "Data_Rate": "10 Gbps",
+      "Form_Factor": "SFP+",
+      "Reach": "10m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP40G-5M",
+      "OEM_Part_Number": "QSFP-H40G-CU5M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "5m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP40G-4M",
+      "OEM_Part_Number": "QSFP-H40G-CU4M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "4m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP40G-3M",
+      "OEM_Part_Number": "QSFP-H40G-CU3M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "3m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP40G-2M",
+      "OEM_Part_Number": "QSFP-H40G-CU2M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "2m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP40G-1M",
+      "OEM_Part_Number": "QSFP-H40G-CU1M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "1m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP40G-0.5M",
+      "OEM_Part_Number": "QSFP-H40G-CU0-5M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "0.5m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP40G-7M",
+      "OEM_Part_Number": "QSFP-H40G-AOC7M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "7m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP40G-5M",
+      "OEM_Part_Number": "QSFP-H40G-AOC5M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "5m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP40G-3M",
+      "OEM_Part_Number": "QSFP-H40G-AOC3M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "3m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP40G-30M",
+      "OEM_Part_Number": "QSFP-H40G-AOC30M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "30m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP40G-2M",
+      "OEM_Part_Number": "QSFP-H40G-AOC2M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "2m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP40G-25M",
+      "OEM_Part_Number": "QSFP-H40G-AOC25M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "25m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP40G-20M",
+      "OEM_Part_Number": "QSFP-H40G-AOC20M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "20m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP40G-1M",
+      "OEM_Part_Number": "QSFP-H40G-AOC1M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "1m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP40G-15M",
+      "OEM_Part_Number": "QSFP-H40G-AOC15M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "15m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP40G-10M",
+      "OEM_Part_Number": "QSFP-H40G-AOC10M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "10m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP40G-7M",
+      "OEM_Part_Number": "QSFP-H40G-ACU7M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "7m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP40G-10M",
+      "OEM_Part_Number": "QSFP-H40G-ACU10M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "10m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-QSFP-40G-LR",
+      "OEM_Part_Number": "QSFP-4X10G-LR-S",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "10km",
+      "Cable_Type": "Parallel Fiber",
+      "Media": "SMF",
+      "Connector_Type": "MPO-12 (APC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP40G-7M",
+      "OEM_Part_Number": "QSFP-4X10G-AOC7M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "7m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP40G-5M",
+      "OEM_Part_Number": "QSFP-4X10G-AOC5M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "5m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP40G-3M",
+      "OEM_Part_Number": "QSFP-4X10G-AOC3M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "3m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP40G-2M",
+      "OEM_Part_Number": "QSFP-4X10G-AOC2M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "2m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP40G-1M",
+      "OEM_Part_Number": "QSFP-4X10G-AOC1M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "1m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP40G-10M",
+      "OEM_Part_Number": "QSFP-4X10G-AOC10M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "10m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP40G-7M",
+      "OEM_Part_Number": "QSFP-4X10G-AC7M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "7m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP40G-10M",
+      "OEM_Part_Number": "QSFP-4X10G-AC10M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "10m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP40G-5M",
+      "OEM_Part_Number": "QSFP-4SFP10G-CU5M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "5m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP40G-4M",
+      "OEM_Part_Number": "QSFP-4SFP10G-CU4M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "4m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP40G-3M",
+      "OEM_Part_Number": "QSFP-4SFP10G-CU3M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "3m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP40G-2M",
+      "OEM_Part_Number": "QSFP-4SFP10G-CU2M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "2m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP40G-1M",
+      "OEM_Part_Number": "QSFP-4SFP10G-CU1M",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "1m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP40G-0.5M",
+      "OEM_Part_Number": "QSFP-4SFP10-CU0-5",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "0.5m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-QSFP-40G-SR",
+      "OEM_Part_Number": "QSFP-40G-SR-BD",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "150m",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "MMF",
+      "Connector_Type": "LC (UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "10 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-QSFP-40G-SR4",
+      "OEM_Part_Number": "QSFP-40G-SR4",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "150m",
+      "Cable_Type": "Parallel Fiber",
+      "Media": "MMF",
+      "Connector_Type": "MPO-12 (UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-QSFP-40G-LR4",
+      "OEM_Part_Number": "QSFP-40G-LR4",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "10km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-QSFP-40G-ER4",
+      "OEM_Part_Number": "QSFP-40G-ER4",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "40km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-QSFP-40G-CSR",
+      "OEM_Part_Number": "QSFP-40G-CSR-S",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "440m",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "MMF",
+      "Connector_Type": "LC (UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-QSFP-40G-CSR4",
+      "OEM_Part_Number": "QSFP-40G-CSR4",
+      "Data_Rate": "40 Gbps",
+      "Form_Factor": "QSFP+",
+      "Reach": "400m",
+      "Cable_Type": "Parallel Fiber",
+      "Media": "MMF",
+      "Connector_Type": "MPO-12 (UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP100G-5M",
+      "OEM_Part_Number": "QSFP-4SFP25G-CU5M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "5m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP100G-3M",
+      "OEM_Part_Number": "QSFP-4SFP25G-CU3M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "3m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP100G-2M",
+      "OEM_Part_Number": "QSFP-4SFP25G-CU2M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "2m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP100G-1M",
+      "OEM_Part_Number": "QSFP-4SFP25G-CU1M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "1m",
+      "Cable_Type": "Preterminated breakout cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-QSFP28-100G-SR4",
+      "OEM_Part_Number": "QSFP-100G-SR4-S",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "100m",
+      "Cable_Type": "Parallel Fiber",
+      "Media": "MMF",
+      "Connector_Type": "MPO-12 (UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-QSFP28-100G-SM-SR",
+      "OEM_Part_Number": "QSFP-100G-SM-SR",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "2km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "10 to 60C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-QSFP28-100G-SL4",
+      "OEM_Part_Number": "QSFP-100G-SL4",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "30m",
+      "Cable_Type": "Parallel Fiber",
+      "Media": "MMF",
+      "Connector_Type": "MPO-12 (UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-QSFP28-100G-PSM4",
+      "OEM_Part_Number": "QSFP-100G-PSM4-S",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "500m",
+      "Cable_Type": "Parallel Fiber",
+      "Media": "SMF",
+      "Connector_Type": "MPO-12 (APC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-QSFP28-100G-LR",
+      "OEM_Part_Number": "QSFP-100G-LR-S",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "10km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/25G_100G_400G_SFP_Transceiver-28/21.html"
+    },
+    {
+      "Your_SKU": "A-QSFP28-100G-LR4",
+      "OEM_Part_Number": "QSFP-100G-LR4-S",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "10km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/25G_100G_400G_SFP_Transceiver-28/21.html"
+    },
+    {
+      "Your_SKU": "A-QSFP28-100G-FR",
+      "OEM_Part_Number": "QSFP-100G-FR-S",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "2km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-QSFP28-100G-ERL",
+      "OEM_Part_Number": "QSFP-100G-ERL-S",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "25km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-QSFP28-100G-ER4L",
+      "OEM_Part_Number": "QSFP-100G-ER4L-S",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "40km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-QSFP28-100G-DR",
+      "OEM_Part_Number": "QSFP-100G-DR-S",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "500m",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-QSFP28-100G-CWDM4-LR",
+      "OEM_Part_Number": "QSFP-100G-CWDM4-S",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "2km",
+      "Cable_Type": "Duplex Fiber",
+      "Media": "SMF",
+      "Connector_Type": "LC (UPC)",
+      "Transceiver_Type": "Optic",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP100G-5M",
+      "OEM_Part_Number": "QSFP-100G-CU5M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "5m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP100G-3M",
+      "OEM_Part_Number": "QSFP-100G-CU3M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "3m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP100G-2M",
+      "OEM_Part_Number": "QSFP-100G-CU2M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "2m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-DAC-QSFP100G-1M",
+      "OEM_Part_Number": "QSFP-100G-CU1M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "1m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "DAC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP100G-7M",
+      "OEM_Part_Number": "QSFP-100G-AOC7M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "7m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP100G-5M",
+      "OEM_Part_Number": "QSFP-100G-AOC5M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "5m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP100G-3M",
+      "OEM_Part_Number": "QSFP-100G-AOC3M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "3m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP100G-30M",
+      "OEM_Part_Number": "QSFP-100G-AOC30M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "30m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP100G-2M",
+      "OEM_Part_Number": "QSFP-100G-AOC2M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "2m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP100G-25M",
+      "OEM_Part_Number": "QSFP-100G-AOC25M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "25m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP100G-20M",
+      "OEM_Part_Number": "QSFP-100G-AOC20M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "20m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP100G-1M",
+      "OEM_Part_Number": "QSFP-100G-AOC1M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "1m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP100G-15M",
+      "OEM_Part_Number": "QSFP-100G-AOC15M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "15m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    },
+    {
+      "Your_SKU": "A-AOC-QSFP100G-10M",
+      "OEM_Part_Number": "QSFP-100G-AOC10M",
+      "Data_Rate": "100 Gbps",
+      "Form_Factor": "QSFP28",
+      "Reach": "10m",
+      "Cable_Type": "Preterminated cable",
+      "Media": "AOC",
+      "Connector_Type": null,
+      "Transceiver_Type": "Cable",
+      "Case_Temp": "0 to 70C",
+      "Product_Page_URL": "https://www.axonodesolution.com/contact_us-34.html"
+    }
+  ],
+  "compatibility": [
+    {
+      "Device_ID": "C9300X-NM-8M",
+      "OEM_Part_Number": "CAT6A/CAT7 ETHERNET CABLE",
+      "Description": "Catalyst 9300X 8x 10G/1G Multigigabit Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "GLC-GE-100FX",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-H25G-CU1M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-H25G-CU2M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-H25G-CU3M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-H25G-CU5M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-25G-AOC1M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-25G-AOC2M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-25G-AOC3M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-25G-AOC5M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-25G-AOC7M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-25G-AOC10M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-25G-SR-S",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-SR",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-SR-S",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-SR-X",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-LR",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-LR-S",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-LR-X",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-ER",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-ER-S",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-ZR",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-ZR-S",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-BXD-I",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-BXU-I",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-BX40D-I",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-BX40U-I",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-H10GB-ACU7M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-H10GB-ACU10M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-AOC1M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-AOC2M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-AOC3M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-AOC5M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-AOC7M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-AOC10M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "DWDM-SFP10G-XX.XX",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "CWDM-SFP10G-XXXX",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "GLC-T",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "GLC-TE",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "GLC-BX-D",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "GLC-BX-U",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "GLC-BX40-D-I",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "GLC-BX40-U-I",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "GLC-BX80-D-I",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "GLC-BX80-U-I",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "GLC-BX40-DA-I",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "GLC-EX-SMD",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-GE-T",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "GLC-SX-MM-RGD",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "GLC-LX-SM-RGD",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "GLC-ZX-SM-RGD",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "GLC-SX-MMD",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "GLC-LH-SMD",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "GLC-ZX-SMD",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "CWDM-SFP-XXXX",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "DWDM-SFP-XXXX",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10/25G-CSR-S",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10/25G-LR-S",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "DWDM-SFP10G-C-S",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-25G-AOC4M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-H25G-CU1.5M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-H25G-CU2.5M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-H25G-CU4M",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-8Y",
+      "OEM_Part_Number": "SFP-10G-T-X",
+      "Description": "Catalyst 9300X 8x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-SR4-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-CWDM4-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-PSM4-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-LR4-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-SM-SR",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-ER4L-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-40/100-SRBD",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-FR-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-CU1M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-CU2M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-CU3M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-CU5M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-4SFP25G-CU1M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-4SFP25G-CU2M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-4SFP25G-CU3M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-4SFP25G-CU5M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-AOC1M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-AOC2M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-AOC3M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-AOC5M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-AOC7M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-AOC10M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-AOC15M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-AOC20M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-AOC25M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-AOC30M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-H25G-CU1M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-H25G-CU2M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-H25G-CU3M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-H25G-CU5M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-25G-AOC1M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-25G-AOC2M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-25G-AOC3M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-25G-AOC5M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-25G-AOC7M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-25G-AOC10M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-25G-SR-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-10G-SR",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-10G-SR-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-10G-LR",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-10G-LR-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-10G-ER",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-10G-ER-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-10G-ZR",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-10G-ZR-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-H10GB-ACU7M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-H10GB-ACU10M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-10G-AOC1M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-10G-AOC2M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-10G-AOC3M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-10G-AOC5M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-10G-AOC7M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-10G-AOC10M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "DWDM-SFP10G-XX.XX",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "GLC-T",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "GLC-TE",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "GLC-BX-D",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "GLC-BX-U",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-40G-SR4",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-40G-SR4-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-40G-SR-BD",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-4X10G-LR-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-40G-LR4-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-40G-LR4",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-40G-ER4",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "WSP-Q40GLR4L",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-4X10G-AC7M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-4X10G-AC10M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-CU5M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-CU3M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-CU1M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-ACU7M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-ACU10M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-4X10G-AOC1M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-4X10G-AOC2M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-4X10G-AOC3M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-4X10G-AOC5M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-4X10G-AOC7M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-4X10G-AOC10M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-AOC1M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-AOC2M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-AOC3M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-AOC5M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-AOC7M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-AOC10M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-AOC15M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-AOC20M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "GLC-EX-SMD",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-GE-T",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "GLC-SX-MM-RGD",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "GLC-LX-SM-RGD",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "GLC-ZX-SM-RGD",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "GLC-SX-MMD",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "GLC-LH-SMD",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "GLC-ZX-SMD",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-AOC25M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-AOC30M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-10/25G-CSR-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-CU0-5M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-CU2M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-H40G-CU4M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-10/25G-LR-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-25G-AOC4M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-40G-CSR-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-H25G-CU1.5M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-H25G-CU2.5M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "SFP-H25G-CU4M",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-DR-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-LR-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-ERL-S",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-SL4",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-2C",
+      "OEM_Part_Number": "QSFP-100G-SR1.2",
+      "Description": "Catalyst 9300X 2x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-SR4-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-CWDM4-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-PSM4-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-LR4-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-SM-SR",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-ER4L-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-40/100-SRBD",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-FR-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-CU1M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-CU2M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-CU3M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-CU5M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-4SFP25G-CU1M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-4SFP25G-CU2M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-4SFP25G-CU3M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-4SFP25G-CU5M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-AOC1M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-AOC2M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-AOC3M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-AOC5M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-AOC7M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-AOC10M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-AOC15M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-AOC20M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-AOC25M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-AOC30M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-H25G-CU1M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-H25G-CU2M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-H25G-CU3M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-H25G-CU5M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-25G-AOC1M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-25G-AOC2M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-25G-AOC3M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-25G-AOC5M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-25G-AOC7M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-25G-AOC10M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-25G-SR-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-10G-SR",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-10G-SR-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-10G-LR",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-10G-LR-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-10G-ER",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-10G-ER-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-10G-ZR",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-10G-ZR-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-H10GB-ACU7M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-H10GB-ACU10M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-10G-AOC1M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-10G-AOC2M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-10G-AOC3M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-10G-AOC5M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-10G-AOC7M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-10G-AOC10M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "DWDM-SFP10G-XX.XX",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "GLC-T",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "GLC-TE",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "GLC-BX-D",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "GLC-BX-U",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-40G-SR4",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-40G-SR4-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-40G-SR-BD",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-4X10G-LR-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-40G-LR4-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-40G-LR4",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-40G-ER4",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "WSP-Q40GLR4L",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-4X10G-AC7M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-4X10G-AC10M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-CU5M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-CU3M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-CU1M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-ACU7M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-ACU10M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-4X10G-AOC1M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-4X10G-AOC2M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-4X10G-AOC3M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-4X10G-AOC5M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-4X10G-AOC7M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-4X10G-AOC10M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-AOC1M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-AOC2M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-AOC3M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-AOC5M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-AOC7M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-AOC10M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-AOC15M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-AOC20M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "GLC-EX-SMD",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-GE-T",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "GLC-SX-MM-RGD",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "GLC-LX-SM-RGD",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "GLC-ZX-SM-RGD",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "GLC-SX-MMD",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "GLC-LH-SMD",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "GLC-ZX-SMD",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-AOC25M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-AOC30M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-10/25G-CSR-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-CU0-5M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-CU2M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-H40G-CU4M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-10/25G-LR-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-25G-AOC4M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-40G-CSR-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-H25G-CU1.5M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-H25G-CU2.5M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "SFP-H25G-CU4M",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-DR-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-LR-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-ERL-S",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-SL4",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300X-NM-4C",
+      "OEM_Part_Number": "QSFP-100G-SR1.2",
+      "Description": "Catalyst 9300X 4x 100G/40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "GLC-GE-100FX",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "GLC-T",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "GLC-TE",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "GLC-BX-D",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "GLC-BX-U",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "GLC-BX40-D-I",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "GLC-BX40-U-I",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "GLC-BX80-D-I",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "GLC-BX80-U-I",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "GLC-BX40-DA-I",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "GLC-EX-SMD",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "GLC-EX-SMD",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "SFP-GE-T",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "GLC-SX-MM-RGD",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "GLC-LX-SM-RGD",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "GLC-ZX-SM-RGD",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "GLC-SX-MMD",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "GLC-LH-SMD",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "CWDM-SFP-XXXX",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4G",
+      "OEM_Part_Number": "DWDM-SFP-XXXX",
+      "Description": "Catalyst 9300 Series 4x 1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-4M",
+      "OEM_Part_Number": "CAT6A/CAT7 ETHERNET CABLE",
+      "Description": "Catalyst 9300 Series 4x Multigigabit Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-GE-100FX",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-GE-100FX",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-SR",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-SR-S",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-SR-X",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-LRM",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-LR",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-LR-S",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-LR-X",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-ER",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-ER-S",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-ZR",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-ZR-S",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-BXD-I",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-BXU-I",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-BX40D-I",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-BX40U-I",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-H10GB-CU1M",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-H10GB-CU3M",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-H10GB-CU5M",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-H10GB-ACU7M",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-H10GB-ACU10M",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-AOC1M",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-AOC2M",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-AOC3M",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-AOC5M",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-AOC7M",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-10G-AOC10M",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "DWDM-SFP10G-XX.XX",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "CWDM-SFP10G-XXXX",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-T",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-TE",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-BX-D",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-BX-U",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-BX40-D-I",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-BX40-U-I",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-BX80-D-I",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-BX80-U-I",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-BX40-DA-I",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-EX-SMD",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-GE-T",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-SX-MM-RGD",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-LX-SM-RGD",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-ZX-SM-RGD",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-SX-MMD",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-LH-SMD",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "GLC-ZX-SMD",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "CWDM-SFP-XXXX",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "DWDM-SFP-XXXX",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-H10GB-CU1-5M",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-H10GB-CU2M",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "SFP-H10GB-CU2-5M",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-8X",
+      "OEM_Part_Number": "DWDM-SFP10G-C-S",
+      "Description": "Catalyst 9300 Series 8x 10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-40/100-SRBD",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-10G-SR",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-10G-SR-S",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-10G-LR",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-10G-LR-S",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-10G-ER",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-10G-ER-S",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-10G-ZR",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-10G-ZR-S",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-H10GB-CU1M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-H10GB-CU3M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-H10GB-CU5M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-H10GB-ACU7M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-H10GB-ACU10M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-10G-AOC1M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-10G-AOC2M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-10G-AOC3M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-10G-AOC5M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-10G-AOC7M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-10G-AOC10M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "GLC-T",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "GLC-TE",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "GLC-BX-D",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "GLC-BX-U",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-40G-SR4",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-40G-SR4",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-40G-CSR4",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-40G-CSR4",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-40G-SR4-S",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-40G-SR-BD",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-4X10G-LR-S",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-40G-LR4-S",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-40G-LR4",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-40G-ER4",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "WSP-Q40GLR4L",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-4SFP10G-CU5M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-4SFP10G-CU3M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-4SFP10G-CU1M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-4X10G-AC7M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-4X10G-AC10M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-CU5M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-CU3M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-CU1M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-ACU7M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-ACU10M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-4X10G-AOC1M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-4X10G-AOC2M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-4X10G-AOC3M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-4X10G-AOC5M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-4X10G-AOC7M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-4X10G-AOC10M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-AOC1M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-AOC2M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-AOC3M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-AOC5M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-AOC7M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-AOC10M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-AOC15M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-AOC20M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "GLC-EX-SMD",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "GLC-SX-MM-RGD",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "GLC-LX-SM-RGD",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "GLC-ZX-SM-RGD",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "GLC-SX-MMD",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "GLC-LH-SMD",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "GLC-ZX-SMD",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-AOC25M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-AOC30M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-H10GB-CU1-5M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-H10GB-CU2M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "SFP-H10GB-CU2-5M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-4SFP10G-CU2M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-4SFP10G-CU4M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-CU0-5M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-CU2M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-H40G-CU4M",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Q",
+      "OEM_Part_Number": "QSFP-40G-CSR-S",
+      "Description": "Catalyst 9300 Series 2x 40G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "GLC-GE-100FX",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-H25G-CU1M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-H25G-CU2M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-H25G-CU3M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-H25G-CU5M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-25G-AOC1M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-25G-AOC2M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-25G-AOC3M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-25G-AOC5M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-25G-AOC7M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-25G-AOC10M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-25G-SR-S",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-SR",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-SR-S",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-SR-X",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-LR",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-LR-S",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-LR-X",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-ER",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-ER-S",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-BXD-I",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-BXU-I",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-BX40D-I",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-BX40U-I",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-H10GB-CU1M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-H10GB-CU3M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-H10GB-CU5M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-H10GB-ACU7M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-H10GB-ACU10M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-AOC1M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-AOC2M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-AOC3M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-AOC5M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-AOC7M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10G-AOC10M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "CWDM-SFP10G-XXXX",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "GLC-T",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "GLC-TE",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "GLC-BX-D",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "GLC-BX-U",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "GLC-BX40-D-I",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "GLC-BX40-U-I",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "GLC-BX80-D-I",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "GLC-BX80-U-I",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "GLC-BX40-DA-I",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "GLC-EX-SMD",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-GE-T",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "GLC-SX-MM-RGD",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "GLC-LX-SM-RGD",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "GLC-ZX-SM-RGD",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "GLC-SX-MMD",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "GLC-LH-SMD",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "GLC-ZX-SMD",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "CWDM-SFP-XXXX",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "DWDM-SFP-XXXX",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-H10GB-CU1-5M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-H10GB-CU2M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-H10GB-CU2-5M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10/25G-CSR-S",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10/25G-LR-S",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "DWDM-SFP10G-C-S",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-25G-AOC4M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-H25G-CU1.5M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-H25G-CU2.5M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-H25G-CU4M",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10/25G-BXD-I",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10/25G-BXD-I",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10/25G-BXU-I",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    },
+    {
+      "Device_ID": "C9300-NM-2Y",
+      "OEM_Part_Number": "SFP-10/25G-BXU-I",
+      "Description": "Catalyst 9300 Series 2x 25G/10G/1G Network Module"
+    }
+  ],
+  "switchBays": [
+    {
+      "Switch_Model": "C9300X-48HX",
+      "Device_ID": "C9300X-NM-8M"
+    },
+    {
+      "Switch_Model": "C9300X-48HX",
+      "Device_ID": "C9300X-NM-8Y"
+    },
+    {
+      "Switch_Model": "C9300X-48HX",
+      "Device_ID": "C9300X-NM-2C"
+    },
+    {
+      "Switch_Model": "C9300X-48HX",
+      "Device_ID": "C9300X-NM-4C"
+    },
+    {
+      "Switch_Model": "C9300X-48TX",
+      "Device_ID": "C9300X-NM-8M"
+    },
+    {
+      "Switch_Model": "C9300X-48TX",
+      "Device_ID": "C9300X-NM-8Y"
+    },
+    {
+      "Switch_Model": "C9300X-48TX",
+      "Device_ID": "C9300X-NM-2C"
+    },
+    {
+      "Switch_Model": "C9300X-48TX",
+      "Device_ID": "C9300X-NM-4C"
+    },
+    {
+      "Switch_Model": "C9300X-48HXN",
+      "Device_ID": "C9300X-NM-8M"
+    },
+    {
+      "Switch_Model": "C9300X-48HXN",
+      "Device_ID": "C9300X-NM-8Y"
+    },
+    {
+      "Switch_Model": "C9300X-48HXN",
+      "Device_ID": "C9300X-NM-2C"
+    },
+    {
+      "Switch_Model": "C9300X-24HX",
+      "Device_ID": "C9300X-NM-8M"
+    },
+    {
+      "Switch_Model": "C9300X-24HX",
+      "Device_ID": "C9300X-NM-8Y"
+    },
+    {
+      "Switch_Model": "C9300X-24HX",
+      "Device_ID": "C9300X-NM-2C"
+    },
+    {
+      "Switch_Model": "C9300X-12Y",
+      "Device_ID": "C9300X-NM-8M"
+    },
+    {
+      "Switch_Model": "C9300X-12Y",
+      "Device_ID": "C9300X-NM-8Y"
+    },
+    {
+      "Switch_Model": "C9300X-12Y",
+      "Device_ID": "C9300X-NM-2C"
+    },
+    {
+      "Switch_Model": "C9300X-24Y",
+      "Device_ID": "C9300X-NM-8M"
+    },
+    {
+      "Switch_Model": "C9300X-24Y",
+      "Device_ID": "C9300X-NM-8Y"
+    },
+    {
+      "Switch_Model": "C9300X-24Y",
+      "Device_ID": "C9300X-NM-2C"
+    },
+    {
+      "Switch_Model": "C9300X-24Y",
+      "Device_ID": "C9300X-NM-4C"
+    },
+    {
+      "Switch_Model": "C9300-24T",
+      "Device_ID": "C9300-NM-4G"
+    },
+    {
+      "Switch_Model": "C9300-24T",
+      "Device_ID": "C9300-NM-4M"
+    },
+    {
+      "Switch_Model": "C9300-24T",
+      "Device_ID": "C9300-NM-8X"
+    },
+    {
+      "Switch_Model": "C9300-24T",
+      "Device_ID": "C9300-NM-2Q"
+    },
+    {
+      "Switch_Model": "C9300-24T",
+      "Device_ID": "C9300-NM-2Y"
+    },
+    {
+      "Switch_Model": "C9300-48T",
+      "Device_ID": "C9300-NM-4G"
+    },
+    {
+      "Switch_Model": "C9300-48T",
+      "Device_ID": "C9300-NM-4M"
+    },
+    {
+      "Switch_Model": "C9300-48T",
+      "Device_ID": "C9300-NM-8X"
+    },
+    {
+      "Switch_Model": "C9300-48T",
+      "Device_ID": "C9300-NM-2Q"
+    },
+    {
+      "Switch_Model": "C9300-48T",
+      "Device_ID": "C9300-NM-2Y"
+    },
+    {
+      "Switch_Model": "C9300-24P",
+      "Device_ID": "C9300-NM-4G"
+    },
+    {
+      "Switch_Model": "C9300-24P",
+      "Device_ID": "C9300-NM-4M"
+    },
+    {
+      "Switch_Model": "C9300-24P",
+      "Device_ID": "C9300-NM-8X"
+    },
+    {
+      "Switch_Model": "C9300-24P",
+      "Device_ID": "C9300-NM-2Q"
+    },
+    {
+      "Switch_Model": "C9300-24P",
+      "Device_ID": "C9300-NM-2Y"
+    },
+    {
+      "Switch_Model": "C9300-48P",
+      "Device_ID": "C9300-NM-4G"
+    },
+    {
+      "Switch_Model": "C9300-48P",
+      "Device_ID": "C9300-NM-4M"
+    },
+    {
+      "Switch_Model": "C9300-48P",
+      "Device_ID": "C9300-NM-8X"
+    },
+    {
+      "Switch_Model": "C9300-48P",
+      "Device_ID": "C9300-NM-2Q"
+    },
+    {
+      "Switch_Model": "C9300-48P",
+      "Device_ID": "C9300-NM-2Y"
+    },
+    {
+      "Switch_Model": "C9300-24U",
+      "Device_ID": "C9300-NM-4G"
+    },
+    {
+      "Switch_Model": "C9300-24U",
+      "Device_ID": "C9300-NM-4M"
+    },
+    {
+      "Switch_Model": "C9300-24U",
+      "Device_ID": "C9300-NM-8X"
+    },
+    {
+      "Switch_Model": "C9300-24U",
+      "Device_ID": "C9300-NM-2Q"
+    },
+    {
+      "Switch_Model": "C9300-24U",
+      "Device_ID": "C9300-NM-2Y"
+    },
+    {
+      "Switch_Model": "C9300-48U",
+      "Device_ID": "C9300-NM-4G"
+    },
+    {
+      "Switch_Model": "C9300-48U",
+      "Device_ID": "C9300-NM-4M"
+    },
+    {
+      "Switch_Model": "C9300-48U",
+      "Device_ID": "C9300-NM-8X"
+    },
+    {
+      "Switch_Model": "C9300-48U",
+      "Device_ID": "C9300-NM-2Q"
+    },
+    {
+      "Switch_Model": "C9300-48U",
+      "Device_ID": "C9300-NM-2Y"
+    },
+    {
+      "Switch_Model": "C9300-24UX",
+      "Device_ID": "C9300-NM-4G"
+    },
+    {
+      "Switch_Model": "C9300-24UX",
+      "Device_ID": "C9300-NM-4M"
+    },
+    {
+      "Switch_Model": "C9300-24UX",
+      "Device_ID": "C9300-NM-8X"
+    },
+    {
+      "Switch_Model": "C9300-24UX",
+      "Device_ID": "C9300-NM-2Q"
+    },
+    {
+      "Switch_Model": "C9300-24UX",
+      "Device_ID": "C9300-NM-2Y"
+    },
+    {
+      "Switch_Model": "C9300-48UXM",
+      "Device_ID": "C9300-NM-4G"
+    },
+    {
+      "Switch_Model": "C9300-48UXM",
+      "Device_ID": "C9300-NM-4M"
+    },
+    {
+      "Switch_Model": "C9300-48UXM",
+      "Device_ID": "C9300-NM-8X"
+    },
+    {
+      "Switch_Model": "C9300-48UXM",
+      "Device_ID": "C9300-NM-2Q"
+    },
+    {
+      "Switch_Model": "C9300-48UXM",
+      "Device_ID": "C9300-NM-2Y"
+    },
+    {
+      "Switch_Model": "C9300-48UN",
+      "Device_ID": "C9300-NM-4G"
+    },
+    {
+      "Switch_Model": "C9300-48UN",
+      "Device_ID": "C9300-NM-4M"
+    },
+    {
+      "Switch_Model": "C9300-48UN",
+      "Device_ID": "C9300-NM-8X"
+    },
+    {
+      "Switch_Model": "C9300-48UN",
+      "Device_ID": "C9300-NM-2Q"
+    },
+    {
+      "Switch_Model": "C9300-48UN",
+      "Device_ID": "C9300-NM-2Y"
+    },
+    {
+      "Switch_Model": "C9300-24UB",
+      "Device_ID": "C9300-NM-4G"
+    },
+    {
+      "Switch_Model": "C9300-24UB",
+      "Device_ID": "C9300-NM-4M"
+    },
+    {
+      "Switch_Model": "C9300-24UB",
+      "Device_ID": "C9300-NM-8X"
+    },
+    {
+      "Switch_Model": "C9300-24UB",
+      "Device_ID": "C9300-NM-2Q"
+    },
+    {
+      "Switch_Model": "C9300-24UB",
+      "Device_ID": "C9300-NM-2Y"
+    },
+    {
+      "Switch_Model": "C9300-24UXB",
+      "Device_ID": "C9300-NM-4G"
+    },
+    {
+      "Switch_Model": "C9300-24UXB",
+      "Device_ID": "C9300-NM-4M"
+    },
+    {
+      "Switch_Model": "C9300-24UXB",
+      "Device_ID": "C9300-NM-8X"
+    },
+    {
+      "Switch_Model": "C9300-24UXB",
+      "Device_ID": "C9300-NM-2Q"
+    },
+    {
+      "Switch_Model": "C9300-24UXB",
+      "Device_ID": "C9300-NM-2Y"
+    },
+    {
+      "Switch_Model": "C9300-48UB",
+      "Device_ID": "C9300-NM-4G"
+    },
+    {
+      "Switch_Model": "C9300-48UB",
+      "Device_ID": "C9300-NM-4M"
+    },
+    {
+      "Switch_Model": "C9300-48UB",
+      "Device_ID": "C9300-NM-8X"
+    },
+    {
+      "Switch_Model": "C9300-48UB",
+      "Device_ID": "C9300-NM-2Q"
+    },
+    {
+      "Switch_Model": "C9300-48UB",
+      "Device_ID": "C9300-NM-2Y"
+    },
+    {
+      "Switch_Model": "C9300-24H",
+      "Device_ID": "C9300-NM-4G"
+    },
+    {
+      "Switch_Model": "C9300-24H",
+      "Device_ID": "C9300-NM-4M"
+    },
+    {
+      "Switch_Model": "C9300-24H",
+      "Device_ID": "C9300-NM-8X"
+    },
+    {
+      "Switch_Model": "C9300-24H",
+      "Device_ID": "C9300-NM-2Q"
+    },
+    {
+      "Switch_Model": "C9300-24H",
+      "Device_ID": "C9300-NM-2Y"
+    },
+    {
+      "Switch_Model": "C9300-48H",
+      "Device_ID": "C9300-NM-4G"
+    },
+    {
+      "Switch_Model": "C9300-48H",
+      "Device_ID": "C9300-NM-4M"
+    },
+    {
+      "Switch_Model": "C9300-48H",
+      "Device_ID": "C9300-NM-8X"
+    },
+    {
+      "Switch_Model": "C9300-48H",
+      "Device_ID": "C9300-NM-2Q"
+    },
+    {
+      "Switch_Model": "C9300-48H",
+      "Device_ID": "C9300-NM-2Y"
+    },
+    {
+      "Switch_Model": "C9300-24S",
+      "Device_ID": "C9300-NM-4G"
+    },
+    {
+      "Switch_Model": "C9300-24S",
+      "Device_ID": "C9300-NM-4M"
+    },
+    {
+      "Switch_Model": "C9300-24S",
+      "Device_ID": "C9300-NM-8X"
+    },
+    {
+      "Switch_Model": "C9300-24S",
+      "Device_ID": "C9300-NM-2Q"
+    },
+    {
+      "Switch_Model": "C9300-24S",
+      "Device_ID": "C9300-NM-2Y"
+    },
+    {
+      "Switch_Model": "C9300-48S",
+      "Device_ID": "C9300-NM-4G"
+    },
+    {
+      "Switch_Model": "C9300-48S",
+      "Device_ID": "C9300-NM-4M"
+    },
+    {
+      "Switch_Model": "C9300-48S",
+      "Device_ID": "C9300-NM-8X"
+    },
+    {
+      "Switch_Model": "C9300-48S",
+      "Device_ID": "C9300-NM-2Q"
+    },
+    {
+      "Switch_Model": "C9300-48S",
+      "Device_ID": "C9300-NM-2Y"
+    },
+    {
+      "Switch_Model": "C9300L-24T-4G",
+      "Device_ID": "Fixed_4x1G_SFP"
+    },
+    {
+      "Switch_Model": "C9300L-24T-4X",
+      "Device_ID": "Fixed_4x10G_SFP+"
+    },
+    {
+      "Switch_Model": "C9300L-48T-4G",
+      "Device_ID": "Fixed_4x1G_SFP"
+    },
+    {
+      "Switch_Model": "C9300L-48T-4X",
+      "Device_ID": "Fixed_4x10G_SFP+"
+    },
+    {
+      "Switch_Model": "C9300L-24P-4G",
+      "Device_ID": "Fixed_4x1G_SFP"
+    },
+    {
+      "Switch_Model": "C9300L-24P-4X",
+      "Device_ID": "Fixed_4x10G_SFP+"
+    },
+    {
+      "Switch_Model": "C9300L-48P-4G",
+      "Device_ID": "Fixed_4x1G_SFP"
+    },
+    {
+      "Switch_Model": "C9300L-48P-4X",
+      "Device_ID": "Fixed_4x10G_SFP+"
+    },
+    {
+      "Switch_Model": "C9300L-48PF-4G",
+      "Device_ID": "Fixed_4x1G_SFP"
+    },
+    {
+      "Switch_Model": "C9300L-48PF-4X",
+      "Device_ID": "Fixed_4x10G_SFP+"
+    },
+    {
+      "Switch_Model": "C9300L-24UXG-4X",
+      "Device_ID": "Fixed_4x10G_SFP+"
+    },
+    {
+      "Switch_Model": "C9300L-24UXG-2Q",
+      "Device_ID": "Fixed_2x40G_QSFP+"
+    },
+    {
+      "Switch_Model": "C9300L-48UXG-4X",
+      "Device_ID": "Fixed_4x10G_SFP+"
+    },
+    {
+      "Switch_Model": "C9300L-48UXG-2Q",
+      "Device_ID": "Fixed_2x40G_QSFP+"
+    },
+    {
+      "Switch_Model": "C9300LM-48UX-4Y",
+      "Device_ID": "Fixed_4x25G_SFP28"
+    },
+    {
+      "Switch_Model": "C9300LM-48U-4Y",
+      "Device_ID": "Fixed_4x25G_SFP28"
+    },
+    {
+      "Switch_Model": "C9300LM-24U-4Y",
+      "Device_ID": "Fixed_4x25G_SFP28"
+    },
+    {
+      "Switch_Model": "C9300LM-48T-4Y",
+      "Device_ID": "Fixed_4x25G_SFP28"
+    }
+  ]
+}
