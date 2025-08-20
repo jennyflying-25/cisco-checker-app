@@ -1,8 +1,6 @@
 import type { Metadata } from "next";
     import { Inter } from "next/font/google";
-    
-    // Import Tailwind's core styles directly. This bypasses globals.css completely.
-    import "tailwindcss/tailwind.css";
+    import "./globals.css";
 
     const inter = Inter({ subsets: ["latin"] });
 
