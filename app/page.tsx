@@ -53,7 +53,7 @@ export default function Home() {
   useEffect(() => {
     const loadData = async () => {
       try {
-        const response = await  fetch('/database_test.json');
+        const response = await  fetch('/databas.json');
         if (!response.ok) {
           throw new Error("HTTP error! status: " + response.status);
         }
